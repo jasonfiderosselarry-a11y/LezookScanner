@@ -1,5 +1,0 @@
-# LEZOOK SCANNER v3.0 - Requirements
-# Install with: pip install -r requirements.txt
-
-kivy>=2.2.0
-kivymd>=1.2.0
